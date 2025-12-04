@@ -183,10 +183,17 @@ Authentication Module (Login / Logout / Password Update)
 📸 Screenshots
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-57-24" src="https://github.com/user-attachments/assets/5aeda044-7871-4869-838b-c08e65bb5733" />
 
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 12-58-41" src="https://github.com/user-attachments/assets/2dfef9b1-1e75-4c37-919c-7fde26a6a082" />
 
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 12-59-33" src="https://github.com/user-attachments/assets/d23063cc-0ec7-4515-8872-381b381b17e8" />
 
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 12-59-39" src="https://github.com/user-attachments/assets/1fd9e67f-83bb-4832-8938-fc6a19a698de" />
 
----
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-00-51" src="https://github.com/user-attachments/assets/bc41fea9-5fe5-4c09-a8e0-0a2acf56c629" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-26" src="https://github.com/user-attachments/assets/63fc3022-3b91-4f1a-8c36-166a58e7cb11" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-58" src="https://github.com/user-attachments/assets/7253d7a1-de10-40f1-8714-3295f4bfa82d" />
 
 📝 Author
 
