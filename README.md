@@ -212,10 +212,10 @@ Employee Login
 Employee Dashboard
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-31" src="https://github.com/user-attachments/assets/96146880-1c0e-492d-83eb-968e8987f6cd" />
 
-Employee Profile Update
+Mark Attendance
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-17" src="https://github.com/user-attachments/assets/6a39bc67-c36b-423c-90ad-19912c439c76" />
 
-Mark Attendance
+Employee Profile Update
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-06" src="https://github.com/user-attachments/assets/41d052ec-8aa8-4965-be80-0dbe0eadf5ca" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-06-53" src="https://github.com/user-attachments/assets/c8c195d9-dc0a-41fb-80b4-865ea5283148" />
