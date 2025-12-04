@@ -181,7 +181,7 @@ Authentication Module (Login / Logout / Password Update)
 ---
 
 📸 Screenshots
-Admin Login:
+Admin Dashboard:
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-57-24" src="https://github.com/user-attachments/assets/5aeda044-7871-4869-838b-c08e65bb5733" />
 
@@ -197,7 +197,8 @@ Admin Login:
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-58" src="https://github.com/user-attachments/assets/7253d7a1-de10-40f1-8714-3295f4bfa82d" />
 
-Employee Login:
+Employee Dashboard:
+
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-07" src="https://github.com/user-attachments/assets/478a6887-6a82-45e6-a912-3a26e030fcb3" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-31" src="https://github.com/user-attachments/assets/96146880-1c0e-492d-83eb-968e8987f6cd" />
