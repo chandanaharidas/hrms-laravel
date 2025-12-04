@@ -1,4 +1,4 @@
-
+This project is developed as a part of my Full Stack PHP training and demonstrates my skill in Laravel,Mysql,Ajax and CRUD operations.
 
 📌 HRMS – Human Resource Management System (Laravel)
 
