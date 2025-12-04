@@ -185,27 +185,37 @@ Admin Dashboard:
 
 Login Page
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-57-24" src="https://github.com/user-attachments/assets/5aeda044-7871-4869-838b-c08e65bb5733" />
+
 Admin Dashboard
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-58-41" src="https://github.com/user-attachments/assets/2dfef9b1-1e75-4c37-919c-7fde26a6a082" />
+
 Employee List
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-59-33" src="https://github.com/user-attachments/assets/d23063cc-0ec7-4515-8872-381b381b17e8" />
 
+Add Employee Page
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-59-39" src="https://github.com/user-attachments/assets/1fd9e67f-83bb-4832-8938-fc6a19a698de" />
 
+Attendance Management(Admin)
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-00-51" src="https://github.com/user-attachments/assets/bc41fea9-5fe5-4c09-a8e0-0a2acf56c629" />
 
+Leave Request Approval(admin)
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-26" src="https://github.com/user-attachments/assets/63fc3022-3b91-4f1a-8c36-166a58e7cb11" />
 
+Messages from employees
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-58" src="https://github.com/user-attachments/assets/7253d7a1-de10-40f1-8714-3295f4bfa82d" />
 
 Employee Dashboard:
 
+Employee Login
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-07" src="https://github.com/user-attachments/assets/478a6887-6a82-45e6-a912-3a26e030fcb3" />
 
+Employee Dashboard
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-31" src="https://github.com/user-attachments/assets/96146880-1c0e-492d-83eb-968e8987f6cd" />
 
+Employee Profile Update
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-17" src="https://github.com/user-attachments/assets/6a39bc67-c36b-423c-90ad-19912c439c76" />
 
+Mark Attendance
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-06" src="https://github.com/user-attachments/assets/41d052ec-8aa8-4965-be80-0dbe0eadf5ca" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-06-53" src="https://github.com/user-attachments/assets/c8c195d9-dc0a-41fb-80b4-865ea5283148" />
