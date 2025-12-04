@@ -1,6 +1,6 @@
 This project is developed as a part of my Full Stack PHP training and demonstrates my skill in Laravel,Mysql,Ajax and CRUD operations.
 
-📌 HRMS – Human Resource Management System (Laravel)
+## HRMS – Human Resource Management System (Laravel)
 
 The Human Resource Management System (HRMS) is a web-based application built using Laravel. It helps organisations manage employees, attendance, leaves, communication, and HR operations efficiently.
 
@@ -14,61 +14,61 @@ Employee
 
 ---
 
-🚀 Features
+# Features
 
-👨‍💼 Admin Features
+👨‍💼 **Admin Features**
 
-Admin Login
+1.Admin Login
 
-Dashboard with employee and activity overview
+2.Dashboard with employee and activity overview
 
-Add new employee
+3.Add new employee
 
-View employee list
+4.View employee list
 
-Full Employee CRUD operations (Add, Edit, Update, Delete)
+5.Full Employee CRUD operations (Add, Edit, Update, Delete)
 
-Add and manage Job Posts
+6.Add and manage Job Posts
 
-View all Job Posts
+7.View all Job Posts
 
-View employee attendance
+8.View employee attendance
 
-Modify / correct attendance entries
+9.Modify / correct attendance entries
 
-View leave applications submitted by employees
+10.View leave applications submitted by employees
 
-Approve / Reject leave requests
+11.Approve / Reject leave requests
 
-Receive messages from employees
+12.Receive messages from employees
 
-Change Password
-
-
-
----
-
-👨‍💻 Employee Features
-
-Employee Login
-
-Update personal profile
-
-Mark daily attendance
-
-Apply for leave
-
-Send message to Admin / HR
-
-View status of leave applications
-
-Change Password
+13.Change Password
 
 
 
 ---
 
-🏗️ Tech Stack
+👨‍💻 **Employee Features**
+
+1.Employee Login
+
+2.Update personal profile
+
+3.Mark daily attendance
+
+4.Apply for leave
+
+5.Send message to Admin / HR
+
+6.View status of leave applications
+
+7.Change Password
+
+
+
+---
+
+🏗️ **Tech Stack**
 
 Laravel
 
@@ -92,7 +92,7 @@ XAMPP/LAMPP (local environment)
 
 ---
 
-⚙️ Installation Steps
+⚙️ **Installation Steps**
 
 Follow these steps to run the project on your local system:
 
@@ -139,7 +139,7 @@ Your app will run at:
 
 ---
 
-🧪 Login Credentials (Demo)
+🧪 **Login Credentials (Demo)**
 
 Admin Login: 
 Email:admin@hrms.com
@@ -160,7 +160,7 @@ After logging in, the employee can change their password.
 
 ---
 
-📁 Project Modules
+📁 **Project Modules**
 
 Employee Module
 
@@ -180,7 +180,7 @@ Authentication Module (Login / Logout / Password Update)
 
 ---
 
-📸 Screenshots
+📸 **Screenshots**
 Admin Dashboard:
 
 Login Page
