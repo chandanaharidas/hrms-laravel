@@ -50,19 +50,19 @@ Employee
 
 👨‍💻 **Employee Features**
 
-1.Employee Login
+1. Employee Login
 
-2.Update personal profile
+2. Update personal profile
 
-3.Mark daily attendance
+3. Mark daily attendance
 
-4.Apply for leave
+4. Apply for leave
 
-5.Send message to Admin / HR
+5. Send message to Admin / HR
 
-6.View status of leave applications
+6. View status of leave applications
 
-7.Change Password
+7. Change Password
 
 
 
