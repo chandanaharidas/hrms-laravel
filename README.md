@@ -18,25 +18,25 @@ Employee
 
 👨‍💼 **Admin Features**
 
-1.Admin Login
+1. Admin Login
 
-2.Dashboard with employee and activity overview
+2. Dashboard with employee and activity overview
 
-3.Add new employee
+3. Add new employee
 
-4.View employee list
+4. View employee list
 
-5.Full Employee CRUD operations (Add, Edit, Update, Delete)
+5. Full Employee CRUD operations (Add, Edit, Update, Delete)
 
-6.Add and manage Job Posts
+6. Add and manage Job Posts
 
-7.View all Job Posts
+7. View all Job Posts
 
-8.View employee attendance
+8. View employee attendance
 
-9.Modify / correct attendance entries
+9. Modify / correct attendance entries
 
-10.View leave applications submitted by employees
+10. View leave applications submitted by employees
 
 11.Approve / Reject leave requests
 
