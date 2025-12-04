@@ -181,6 +181,8 @@ Authentication Module (Login / Logout / Password Update)
 ---
 
 📸 Screenshots
+Admin Login:
+
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-57-24" src="https://github.com/user-attachments/assets/5aeda044-7871-4869-838b-c08e65bb5733" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 12-58-41" src="https://github.com/user-attachments/assets/2dfef9b1-1e75-4c37-919c-7fde26a6a082" />
@@ -194,6 +196,21 @@ Authentication Module (Login / Logout / Password Update)
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-26" src="https://github.com/user-attachments/assets/63fc3022-3b91-4f1a-8c36-166a58e7cb11" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-12-04 13-01-58" src="https://github.com/user-attachments/assets/7253d7a1-de10-40f1-8714-3295f4bfa82d" />
+
+Employee Login:
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-07" src="https://github.com/user-attachments/assets/478a6887-6a82-45e6-a912-3a26e030fcb3" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-04-31" src="https://github.com/user-attachments/assets/96146880-1c0e-492d-83eb-968e8987f6cd" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-17" src="https://github.com/user-attachments/assets/6a39bc67-c36b-423c-90ad-19912c439c76" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-06" src="https://github.com/user-attachments/assets/41d052ec-8aa8-4965-be80-0dbe0eadf5ca" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-06-53" src="https://github.com/user-attachments/assets/c8c195d9-dc0a-41fb-80b4-865ea5283148" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-05-27" src="https://github.com/user-attachments/assets/e1247929-a039-46ff-9dff-dabc798ac115" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 13-07-07" src="https://github.com/user-attachments/assets/9084d5d0-7fdd-4bc5-931f-195726708eaa" />
 
 📝 Author
 
