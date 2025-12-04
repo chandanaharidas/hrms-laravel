@@ -181,6 +181,7 @@ Authentication Module (Login / Logout / Password Update)
 ---
 
 📸 Screenshots
+<img width="1366" height="768" alt="Screenshot from 2025-12-04 12-57-24" src="https://github.com/user-attachments/assets/5aeda044-7871-4869-838b-c08e65bb5733" />
 
 
 
